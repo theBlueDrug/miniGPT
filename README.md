@@ -1,5 +1,7 @@
 # miniGPT
-本项目代码来自https://github.com/bbruceyuan/LLMs-Zero-to-Hero，并针对初学者，进行了部分的完善：
+本项目代码来自https://github.com/bbruceyuan/LLMs-Zero-to-Hero
+
+，并针对初学者，进行了部分的完善：
 
 1、增加了更适合初学者理解的注释；
 
